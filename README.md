@@ -4,8 +4,7 @@
 ### About me
 
 :four_leaf_clover: 백엔드는 자바 스프링, 프론트엔드는 리액트로 작업하고 있습니다.<br/>
-:pencil: 부족한게 상당하지만 열심히 해야죠? <br/> <!-- Add a links-->
-📫 공부는 끝이 없네요 <br/>
+:pencil: 부족한게 상당하지만 열심히 항상 배우며 즐거움을 느끼고 있습니다.<br/>
 
 ### Interest
 
