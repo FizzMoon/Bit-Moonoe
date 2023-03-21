@@ -1,5 +1,5 @@
 ### 안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Bit-Moonoe, 풀스텍 개발자가 목표입니다.
+### I am FizzMoon, 풀스텍 개발자가 목표입니다.
 
 ### About me
 
